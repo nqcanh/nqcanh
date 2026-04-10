@@ -1,3 +1,5 @@
+
+<marquee>🔥 Hello, welcome to my GitHub profile 🔥</marquee>
 # 👋 Hi, I'm Anh
 
 🔭 I’m currently working on Software Engineering projects (Web & AI applications)
