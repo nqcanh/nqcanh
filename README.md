@@ -17,7 +17,6 @@
 * Python, Java
 * SQL, Git
 * HTML/CSS
-* 
 ## 📫 Contact
 
 * Email: nguyenngocanh066206@gmail.com
