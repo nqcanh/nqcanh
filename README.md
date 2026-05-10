@@ -29,3 +29,37 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://tiktok.com/@YOUR_ID">
+    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
