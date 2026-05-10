@@ -20,7 +20,7 @@
 ## 📫 Contact
 
 * Email: nguyenngocanh066206@gmail.com
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=#ffe4e1&width=600&lines=Hi+I'm+Anh;Software+Engineering+Student;Web+Developer;AI+Enthusiast;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=#ffe4e1&width=600&lines=Hi+I'm+Anh;But+you+can+call+me+Anna🚀" />
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" />
