@@ -20,4 +20,4 @@
 ## 📫 Contact
 
 * Email: nguyenngocanh066206@gmail.com
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&width=600&lines=Hi+I'm+Anh;Software+Engineering+Student;Web+Developer;AI+Enthusiast;Always+Learning+🚀" />
