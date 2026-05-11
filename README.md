@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:60a5fa&text=Build.%20Solve.%20Grow.&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=ASP.NET%20%7C%20React%20%7C%20DevSecOps&descAlignY=58&animation=fadeIn" alt="Animated header banner" />
-</p>
 
-<h1 align="center">Nguyen Van Minh Tam</h1>
+<h1 align="center">Nguyen Ngoc Anh</h1>
 
 <p align="center">
   <strong>Backend-Focused Fullstack Builder</strong>
@@ -13,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nvmtamm@gmail.com">
+  <a href="mailto:nguyenngocanh066206@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-nvmtamm%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   <img src="https://img.shields.io/badge/Focus-ASP.NET%20Backend-1d4ed8?style=flat-square" alt="ASP.NET backend focus badge" />
@@ -22,13 +19,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Scholarship-100%25%20FPT%20University-0f172a?style=flat-square" alt="100 percent scholarship badge" />
   <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-1e3a8a?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
 ## <img src="./assets/icons/about.svg" width="18" alt="" /> About Me
 
-I am a second-year student at FPT University Ho Chi Minh City, building a strong backend foundation while growing toward fullstack development.
+I am a third=-year student at FPT University Ho Chi Minh City, building a strong backend foundation while growing toward fullstack development.
 
 My approach is simple: think clearly, solve real problems, and turn ideas into practical results. I am currently focused on ASP.NET to build depth in backend development, with React as the next step and DevSecOps as a long-term area of growth.
 
@@ -123,13 +119,13 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 I am open to internship opportunities and meaningful connections with developers, teams, and people who enjoy building useful things.
 
 <p align="center">
-  <a href="mailto:nvmtamm@gmail.com">
+  <a href="mailto:nguyenngocanh066206@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Connect-nvmtamm%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:nvmtamm@gmail.com">nvmtamm@gmail.com</a>
+  <a href="mailto:nguyenngocanh066206@gmail.com">nvmtamm@gmail.com</a>
 </p>
 
 <p align="center">
