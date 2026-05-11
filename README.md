@@ -80,10 +80,7 @@ I am open to internship opportunities and meaningful connections with developers
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:nguyenngocanh066206@gmail.com">nguyenngocanh066206@gmail.com.com</a>
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:FF1493,100:FF69B4" alt="Animated footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45: FF82AB,100:EE799F" alt="Animated footer banner" />
 </p>
