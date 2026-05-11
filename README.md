@@ -1,9 +1,7 @@
 
-<h1 align="center">
-  <span style="color:#FF82AB;">
-    ✨ Nguyen Ngoc Anh ✨
-  </span>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Nguyen%20Ngoc%20Anh-FF82AB?style=for-the-badge" />
+</p>
 
 <h3 align="center">
   <strong> Fullstack Developer </strong>
