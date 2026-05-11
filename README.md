@@ -69,24 +69,21 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=nqcanh&hide_border=true&background=0,f8fafc,f1f5f9&stroke=FFC1C1&ring=FF82AB&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FF82AB&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
 </p>
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=nqcanh&hide_border=true&background=0,f8fafc,f1f5f9&stroke=FFC1C1&ring=FF82AB&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FF82AB&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
-</p>
 
-## <img src="./assets/icons/connect.svg" width="18" alt="" /> Connect
+## Connect
 
 I am open to internship opportunities and meaningful connections with developers, teams, and people who enjoy building useful things.
 
 <p align="center">
   <a href="mailto:nguyenngocanh066206@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-nvmtamm%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-nguyenngocanh066206%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:nguyenngocanh066206@gmail.com">nvmtamm@gmail.com</a>
+  <a href="mailto:nguyenngocanh066206@gmail.com">nguyenngocanh066206@gmail.com.com</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:1d4ed8,100:60a5fa" alt="Animated footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:FF1493,100:FF69B4" alt="Animated footer banner" />
 </p>
