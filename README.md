@@ -35,7 +35,6 @@ I focus on understanding problems clearly before writing any code, and I aim to 
 
 **Frontend Path**
 <p>
-  <img src="https://img.shields.io/badge/React-FF82AB?style=flat-square&logo=react&logoColor=111111" alt="React badge" />
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=FFB6C1" alt="JavaScript badge" />
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=111111" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FF82AB" alt="CSS3 badge" />
