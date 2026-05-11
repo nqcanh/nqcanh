@@ -2,11 +2,11 @@
 <h1 align="center">Nguyen Ngoc Anh</h1>
 
 <p align="center">
-  <strong>Backend-Focused Fullstack Builder</strong>
+  <strong> Fullstack Developer </strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Reasoning+clearly.+Solving+real+problems.;ASP.NET+today+-%3E+React+next+-%3E+DevSecOps+ahead.;Focused+on+building+results+beyond+expectations." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FFF0F5&center=true&vCenter=true&width=760&lines=I+am+a+Tech+Girl." alt="Animated typing introduction" />
 </p>
 
 <p align="center">
