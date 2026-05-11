@@ -18,7 +18,9 @@
 ## About Me
 
 I am a third-year student at FPT University Ho Chi Minh City
+
 My goal is to develop into a full-stack developer with a strong technical foundation across both backend and frontend systems.
+
 I focus on understanding problems clearly before writing any code, and I aim to build solutions that are practical, efficient, and applicable in real-world scenarios.
 
 ## Tech Stack
