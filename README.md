@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FF99FF&center=true&vCenter=true&width=760&lines=I+am+a+Tech+Girl." alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FF82AB&center=true&vCenter=true&width=760&lines=I+am+a+Tech+Girl." alt="Animated typing introduction" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC- EEB4B4?style=flat-square" alt="FPT University HCMC badge" />
+  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-EEB4B4?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
 ## <img src="./assets/icons/about.svg" width="18" alt="" /> About Me
