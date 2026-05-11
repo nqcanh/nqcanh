@@ -67,15 +67,7 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 
 ## Activity
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=nqcanh&hide_border=true&background=0,f8fafc,f1f5f9&stroke=cbd5e1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=1d4ed8&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nqcanh/nqcanh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nqcanh/nqcanh/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/nqcanh/nqcanh/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img height="180" src="https://streak-stats.demolab.com?user=nqcanh&hide_border=true&background=0,f8fafc,f1f5f9&stroke=FFC1C1&ring=2563eb&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FFC1C1&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
 </p>
 
 ## <img src="./assets/icons/connect.svg" width="18" alt="" /> Connect
