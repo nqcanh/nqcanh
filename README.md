@@ -11,15 +11,13 @@
 
 <p align="center">
  <a href="mailto:nguyenngocanh066206@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+  <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-FF99FF?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
 </a>
-  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Backend-1d4ed8?style=flat-square" alt="ASP.NET backend focus badge" />
-  <img src="https://img.shields.io/badge/Path-Fullstack%20Developer-111827?style=flat-square" alt="Fullstack developer path badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internship-2563eb?style=flat-square" alt="Open to internship badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-FF99FF?style=flat-square" alt="Open to internship badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-1e3a8a?style=flat-square" alt="FPT University HCMC badge" />
+  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-FF99FF?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
 ## <img src="./assets/icons/about.svg" width="18" alt="" /> About Me
