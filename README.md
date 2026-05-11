@@ -14,11 +14,10 @@
   <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-FFC1C1?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
 </a>
   <img src="https://img.shields.io/badge/Open%20To-Internship-CD9B9B?style=flat-square" alt="Open to internship badge" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-EEB4B4?style=flat-square" alt="FPT University HCMC badge" />
 </p>
+
+
 
 ## <img src="./assets/icons/about.svg" width="18" alt="" /> About Me
 
