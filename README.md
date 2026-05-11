@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-EEB4B4?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
-## <img src="./assets/icons/about.svg" width="18" alt="" /> About Me
+## About Me
 
 I am a third=-year student at FPT University Ho Chi Minh City, building a strong backend foundation while growing toward fullstack development.
 
