@@ -11,9 +11,9 @@
 
 <p align="center">
  <a href="mailto:nguyenngocanh066206@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-FF99FF?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+  <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-FFC1C1?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
 </a>
-  <img src="https://img.shields.io/badge/Open%20To-Internship-FF99FF?style=flat-square" alt="Open to internship badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-EEB4B4?style=flat-square" alt="Open to internship badge" />
 </p>
 
 <p align="center">
