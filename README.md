@@ -1,5 +1,9 @@
 
-<h1 align="center">Nguyen Ngoc Anh</h1>
+<h1 align="center">
+  <span style="color:#FF82AB;">
+    ✨ Nguyen Ngoc Anh ✨
+  </span>
+</h1>
 
 <h3 align="center">
   <strong> Fullstack Developer </strong>
