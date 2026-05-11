@@ -1,62 +1,42 @@
 
 <h1 align="center">Nguyen Ngoc Anh</h1>
 
-<p align="center">
+<h3 align="center">
   <strong> Fullstack Developer </strong>
-</p>
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FF82AB&center=true&vCenter=true&width=760&lines=I+am+a+Tech+Girl." alt="Animated typing introduction" />
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-FFC1C1?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internship-CD9B9B?style=flat-square" alt="Open to internship badge" />
-  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-EEB4B4?style=flat-square" alt="FPT University HCMC badge" />
+   <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-FF82AB?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship-CD6889?style=flat-square" alt="Open to internship badge" />
+  <img src="https://img.shields.io/badge/Education-FPT%20University%20HCMC-EE799F?style=flat-square" alt="FPT University HCMC badge" />
 </p>
 
 ## About Me
 
-I am a third-year student at FPT University Ho Chi Minh City, building a strong backend foundation while growing toward fullstack development.
-
-My approach is simple: think clearly, solve real problems, and turn ideas into practical results. I am currently focused on ASP.NET to build depth in backend development, with React as the next step and DevSecOps as a long-term area of growth.
-
-## Current Focus
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Backend Depth</strong><br /><br />
-      Building a solid engineering foundation with ASP.NET and a backend-first mindset.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Fullstack Path</strong><br /><br />
-      Preparing for React as the next step toward delivering complete end-to-end products.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Long-Term Growth</strong><br /><br />
-      Exploring DevSecOps to better understand secure, modern, and production-ready workflows.
-    </td>
-  </tr>
-</table>
+I am a third-year student at FPT University Ho Chi Minh City
+My goal is to develop into a full-stack developer with a strong technical foundation across both backend and frontend systems.
+I focus on understanding problems clearly before writing any code, and I aim to build solutions that are practical, efficient, and applicable in real-world scenarios.
 
 ## Tech Stack
 
 **Core Backend**
-
 <p>
-  <img src="https://img.shields.io/badge/C%23-334155?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp badge" />
-  <img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=white" alt="Java badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-166534?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot badge" />
-  <img src="https://img.shields.io/badge/Python-0f766e?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=FF82AB" alt="C Sharp badge" />
+  <img src="https://img.shields.io/badge/Java-FF82AB?style=flat-square&logo=openjdk&logoColor=0f172a" alt="Java badge" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-111111?style=flat-square&logo=springboot&logoColor=FFB6C1" alt="Spring Boot badge" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat-square&logo=python&logoColor=111111" alt="Python badge" />
 </p>
 
 **Frontend Path**
-
 <p>
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React badge" />
-  <img src="https://img.shields.io/badge/JavaScript-b45309?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/HTML5-c2410c?style=flat-square&logo=html5&logoColor=white" alt="HTML5 badge" />
-  <img src="https://img.shields.io/badge/CSS3-1d4ed8?style=flat-square&logo=css3&logoColor=white" alt="CSS3 badge" />
+  <img src="https://img.shields.io/badge/React-FF82AB?style=flat-square&logo=react&logoColor=111111" alt="React badge" />
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=FFB6C1" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=111111" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FF82AB" alt="CSS3 badge" />
 </p>
 
 **Tools and Workflow**
@@ -72,15 +52,13 @@ My approach is simple: think clearly, solve real problems, and turn ideas into p
 
 ## Connect
 
-I am open to internship opportunities and meaningful connections with developers, teams, and people who enjoy building useful things.
+I am actively looking for internship opportunities and I enjoy connecting with developers and teams who are passionate about building real, impactful products.
 
 <p align="center">
   <a href="mailto:nguyenngocanh066206@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-nguyenngocanh066206%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect badge" />
+    <img src="https://img.shields.io/badge/Let%27s%20Connect-nguyenngocanh066206%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=FF82AB" alt="Let's connect badge" />
   </a>
 </p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:FF82AB,100:EE799F" alt="Animated footer banner" />
 </p>
