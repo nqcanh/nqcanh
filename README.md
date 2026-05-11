@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nguyenngocanh066206@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-nvmtamm%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
-  </a>
+ <a href="mailto:nguyenngocanh066206@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nguyenngocanh066206%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white" alt="Email badge" />
+</a>
   <img src="https://img.shields.io/badge/Focus-ASP.NET%20Backend-1d4ed8?style=flat-square" alt="ASP.NET backend focus badge" />
   <img src="https://img.shields.io/badge/Path-Fullstack%20Developer-111827?style=flat-square" alt="Fullstack developer path badge" />
   <img src="https://img.shields.io/badge/Open%20To-Internship-2563eb?style=flat-square" alt="Open to internship badge" />
