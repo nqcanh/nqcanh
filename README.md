@@ -1,5 +1,7 @@
 
-<h1 align="center">Nguyen Ngoc Anh</h1>
+<h1 align="center">
+  <span style="color:#FF82AB;"><strong>Nguyen Ngoc Anh</strong></span>
+</h1>
 
 <p align="center">
   <strong> Fullstack Developer </strong>
