@@ -82,5 +82,5 @@ I am open to internship opportunities and meaningful connections with developers
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45: FF82AB,100:EE799F" alt="Animated footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:FF82AB,100:EE799F" alt="Animated footer banner" />
 </p>
