@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span style="color:#FF82AB;"><strong>Nguyen Ngoc Anh</strong></span>
+  <span style="color:#FF69B4;"><strong>Nguyen Ngoc Anh</strong></span>
 </h1>
 
 <p align="center">
