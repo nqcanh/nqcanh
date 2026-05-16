@@ -63,6 +63,3 @@ I am actively looking for internship opportunities and I enjoy connecting with d
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:FF82AB,100:EE799F" alt="Animated footer banner" />
 </p>
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=nqcanh)
