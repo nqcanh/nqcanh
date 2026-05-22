@@ -53,6 +53,7 @@ I focus on understanding problems clearly before writing any code, and I aim to 
 
 ## Connect
 
+
 I am actively looking for internship opportunities and I enjoy connecting with developers and teams who are passionate about building real, impactful products.
 
 <p align="center">
