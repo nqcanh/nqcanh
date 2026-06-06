@@ -24,6 +24,7 @@ My goal is to develop into a full-stack developer with a strong technical founda
 
 I focus on understanding problems clearly before writing any code, and I aim to build solutions that are practical, efficient, and applicable in real-world scenarios.
 
+
 ## Tech Stack
 
 **Core Backend**
