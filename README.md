@@ -18,29 +18,48 @@
 <p>Currently looking for an internship to gain real-world experience and grow as a developer.</p>
 
 ## Education
-<p>FPT University Ho Chi Minh City (FPTU HCM) — BSc in Software Engineering</p
+<p>🎓 FPT University Ho Chi Minh City (FPTU HCM) — BSc in Software Engineering</p
 <p>2023 – Apr 2028</p>
 
 ## Tech Stack
-**Core Backend**
-<p>
-  <img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=FF82AB" alt="C Sharp badge" />
-  <img src="https://img.shields.io/badge/Java-FF82AB?style=flat-square&logo=openjdk&logoColor=0f172a" alt="Java badge" />
+**Backend**
 
+<p>
+  <img src="https://img.shields.io/badge/C%23-0f172a?style=flat-square&logo=csharp&logoColor=FFB6C1" alt="C# badge" />
+  <img src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=FF82AB" alt=".NET badge" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0f172a?style=flat-square&logo=dotnet&logoColor=FFB6C1" alt="ASP.NET Core badge" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=FF82AB" alt="Java badge" />
+  <img src="https://img.shields.io/badge/REST_API-111827?style=flat-square&logoColor=FF82AB" alt="REST API badge" />
 </p>
 
 **Frontend Path**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=FFB6C1" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=FF82AB" alt="React badge" />
   <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=111111" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FF82AB" alt="CSS3 badge" />
 </p>
 
-**Tools and Workflow**
-
+**Database**
 <p>
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=FF82AB" alt="SQL Server badge" />
 </p>
+
+**DevOps & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=FF82AB" alt="Docker badge" />
+</p>
+
+**Tools and Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=FF82AB" alt="Git badge" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=FFB6C1" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=FF82AB" alt="VS Code badge" />
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FFB6C1" alt="Postman badge" />
+  <img src="https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger&logoColor=FF82AB" alt="Swagger badge" />
+  <img src="https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=FFB6C1" alt="Figma badge" />
+</p>
+
 
 ## Achivemnent
 🏆 **3rd Place — Hackathon 2026**
