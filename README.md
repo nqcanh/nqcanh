@@ -36,7 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=FFB6C1" alt="JavaScript badge" />
   <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=FF82AB" alt="React badge" />
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=flat-square&logo=html5&logoColor=111111" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=FFB6C1" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=FF82AB" alt="CSS3 badge" />
 </p>
 
@@ -82,5 +82,9 @@ I am actively looking for internship opportunities and I enjoy connecting with d
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:FF82AB,100:EE799F" alt="Animated footer banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&width=1600&color=0:0f172a,45:FF82AB,100:EE799F"
+    width="100%"
+    alt="Animated footer banner"
+  />
 </p>
