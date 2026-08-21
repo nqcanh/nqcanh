@@ -69,24 +69,9 @@ Built an AI-driven system that transforms real-time IoT data into meaningful con
 * Real-time IoT Systems
 
 ## Activity
+## 📊 GitHub Contributions
 
-## Activity
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqcanh&theme=default"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nqcanh&hide_border=true&background=f8fafc&stroke=FFC1C1&ring=FF82AB&fire=FF82AB&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FF82AB&sideLabels=475569&dates=64748b"
-    alt="GitHub Streak"
-  />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
 ## Connect
 
 I am actively looking for internship opportunities and enjoy connecting with developers and teams who are passionate about building real, impactful products.
