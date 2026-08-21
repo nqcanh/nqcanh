@@ -1,5 +1,5 @@
 
-<h1 align="center">Nguyen Ngoc Anh</h1>
+<h1 align="center">Nguyễn Ngọc Anh</h1>
 <h3 align="center">
   <strong> Software Engineering </strong>
 </h3>
@@ -16,6 +16,10 @@
 <p>My goal is to build a strong backend foundation and gradually expand into Frontend Development to become a Fullstack Developer.</p>
 <p>I focus on understanding requirements, problem-solving, logical thinking, and planning before writing code. I enjoy building web applications and exploring practical applications of AI.</p>
 <p>Currently looking for an internship to gain real-world experience and grow as a developer.</p>
+
+## Education
+<p>FPT University Ho Chi Minh City (FPTU HCM) — BSc in Software Engineering</p
+<p>2023 – Apr 2028</p>
 
 ## Tech Stack
 **Core Backend**
@@ -45,17 +49,18 @@ AI-Driven Smart Operations: Turning Real-Time IoT Data into Intelligent Actions
 
 Built an AI-driven system that transforms *real-time IoT data into meaningful context and intelligent actions.
 
-## Activity
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=nqcanh&hide_border=true&background=0,f8fafc,f1f5f9&stroke=FFC1C1&ring=FF82AB&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FF82AB&sideLabels=475569&dates=64748b" alt="GitHub contribution streak" />
-</p>
+## Featured Projects
+* 📚 **BookVerse** — Online book marketplace *(Coming Soon)*
+* 🤖 **Real-time Multi-Agent System** — AI-driven real-time IoT system with multi-agent architecture *(Completed)*
+
 
 ## Connect
 I am actively looking for internship opportunities and I enjoy connecting with developers and teams who are passionate about building real, impactful products.
 
+
 <p align="center">
-  <a href="mailto:nguyenngocanh066206@gmail.com">
-    <img src="https://img.shields.io/badge/Let%27s%20Connect-nguyenngocanh066206%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=FF82AB" alt="Let's connect badge" />
+  <a href="mailto:nguyenngocanhtech@gmail.com">
+    <img src="https://img.shields.io/badge/Let%27s%20Connect-nguyenngocanhtech%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=FF82AB" alt="Let's connect badge" />
   </a>
 </p>
 <p align="center">
