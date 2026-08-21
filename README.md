@@ -72,21 +72,21 @@ Built an AI-driven system that transforms real-time IoT data into meaningful con
 
 ## Activity
 
+## GitHub Activity
+
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nqcanh&bg_color=f8fafc&color=0f172a&line=FF82AB&point=EE799F&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqcanh&theme=default"
+    alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
-  <img 
-    height="180"
-    src="https://streak-stats.demolab.com?user=nqcanh&hide_border=true&background=0,f8fafc,f1f5f9&stroke=FFC1C1&ring=FF82AB&fire=f59e0b&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FF82AB&sideLabels=475569&dates=64748b"
-    alt="GitHub contribution streak"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nqcanh&hide_border=true&background=f8fafc&stroke=FFC1C1&ring=FF82AB&fire=FF82AB&currStreakNum=0f172a&sideNums=0f172a&currStreakLabel=FF82AB&sideLabels=475569&dates=64748b"
+    alt="GitHub Streak"
   />
 </p>
-
 ## Connect
 
 I am actively looking for internship opportunities and enjoy connecting with developers and teams who are passionate about building real, impactful products.
