@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=FF82AB" alt="Git badge" />
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=FFB6C1" alt="GitHub badge" />
   <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=FF82AB" alt="VS Code badge" />
-  <img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FFB6C1" alt="Postman badge" />
   <img src="https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger&logoColor=FF82AB" alt="Swagger badge" />
   <img src="https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=FFB6C1" alt="Figma badge" />
 </p>
