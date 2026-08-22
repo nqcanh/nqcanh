@@ -26,7 +26,7 @@
 
 ## Education
 <p>🎓 FPT University Ho Chi Minh City (FPTU HCM) — BSc in Software Engineering</p
-<p>2023 – Apr 2028</p>
+<p>2024 – Apr 2028</p>
 
 ## Tech Stack
 **Backend**
