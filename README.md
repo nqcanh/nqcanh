@@ -79,11 +79,14 @@ Built an AI-driven system that transforms real-time IoT data into meaningful con
 
 ## Featured Projects
 * 📚 **BookVerse** — Online book marketplace  
-  [GitHub Repository](https://github.com/BookVersee)
-* 📦 **Warehouse Management** — Data Structures & Algorithms (Stack, Queue, BST)  
-  [GitHub Repository](https://github.com/nqcanh/WareHouseManagement)
-* 🤖 **Real-time Multi-Agent System** — AI-driven real-time IoT system with multi-agent architecture 
 
+   [GitHub Repository](https://github.com/BookVersee)
+* 📦 **Warehouse Management** — Data Structures & Algorithms (Stack, Queue, BST)  
+
+   [GitHub Repository](https://github.com/nqcanh/WareHouseManagement)
+* 🤖 **Real-time Multi-Agent System** — AI-driven real-time IoT system with multi-agent architecture
+
+  [GitHub Repository](https://github.com/veteran-smart-ops-hackathon/iot-smart-home-ai-ops)
 ## Certifications
 * **Software Engineering Specialization**  
   <p>The Hong Kong University of Science and Technology</p>
